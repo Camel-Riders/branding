@@ -3,3 +3,6 @@
 
 ## CamelRiders Logo
 ![camelriders](https://user-images.githubusercontent.com/73097560/107117268-1fb09400-68b4-11eb-9fda-d348ce2fcc44.png)
+
+## RoastR Navbar logo
+![RoastR - Navbar](https://user-images.githubusercontent.com/73097560/107141790-18e25980-6966-11eb-9edc-4f32ca184dff.png)
